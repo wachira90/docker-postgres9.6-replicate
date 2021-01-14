@@ -2,4 +2,4 @@
 docker-postgres9.6-replicate
 
 ## run command
-docker-compose -up -d
+docker-compose up -d
